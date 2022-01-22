@@ -66,18 +66,18 @@ img.emoji {
 <link rel='stylesheet' id='Exo-css'  href='http://fonts.googleapis.com/css?family=Exo%3A1%2C400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
 <link rel='stylesheet' id='style-css'  href='wp-content/themes/betheme-child/style.css' type='text/css' media='all' />
-<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/greensock.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var LS_Meta = {"v":"5.6.9"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.9'></script>
-<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.9'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js'></script>
+<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
 <meta name="generator" content="Powered by LayerSlider 5.6.9 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
 <!-- LayerSlider updates and docs at: https://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/ -->
 <link rel='https://api.w.org/' href='wp-json/' />
@@ -569,25 +569,25 @@ document.addEventListener( 'wpcf7submit', function( event ) {
 var wpcf7 = {"apiSettings":{"root":"http:\/\/www.tigressrealestatesfbay.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/js/plugins.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/js/menu.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/assets/animations/animations.min.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/assets/jplayer/jplayer.min.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/js/parallax/translate3d.js'></script>
 <script type='text/javascript' src='wp-content/themes/betheme/js/scripts.js'></script>
-<script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
 <script type='text/javascript' src='wp-content/plugins/arve-pro/node_modules/objectFitPolyfill/dist/objectFitPolyfill.basic.min.js?ver=2.0.4'></script>
-<script type='text/javascript' src='wp-content/plugins/arve-pro/public/arve-pro.min.js?ver=4.0.3'></script>
-<script type='text/javascript' src='wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.js?ver=8.7.6'></script>
+<script type='text/javascript' src='wp-content/plugins/arve-pro/public/arve-pro.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.js'></script>
 <script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&#038;render=explicit&#038;ver=2.0'></script>
 
 </body>
