@@ -54,18 +54,18 @@ img.emoji {
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<link rel='stylesheet' id='mfn-base-css'  href='wp-content/themes/betheme/css/base.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-layout-css'  href='wp-content/themes/betheme/css/layout.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-shortcodes-css'  href='wp-content/themes/betheme/css/shortcodes.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-animations-css'  href='wp-content/themes/betheme/assets/animations/animations.min.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jquery-ui-css'  href='wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-prettyPhoto-css'  href='wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jplayer-css'  href='wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=14.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-responsive-css'  href='wp-content/themes/betheme/css/responsive.css?ver=14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-base-css'  href='wp-content/themes/betheme/css/base.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-layout-css'  href='wp-content/themes/betheme/css/layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-shortcodes-css'  href='wp-content/themes/betheme/css/shortcodes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-animations-css'  href='wp-content/themes/betheme/assets/animations/animations.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jquery-ui-css'  href='wp-content/themes/betheme/assets/ui/jquery.ui.all.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-prettyPhoto-css'  href='wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jplayer-css'  href='wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-responsive-css'  href='wp-content/themes/betheme/css/responsive.css' type='text/css' media='all' />
 <link rel='stylesheet' id='Roboto+Slab-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A1%2C400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='Exo-css'  href='http://fonts.googleapis.com/css?family=Exo%3A1%2C400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
-<link rel='stylesheet' id='style-css'  href='wp-content/themes/betheme-child/style.css?ver=14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='wp-content/themes/betheme-child/style.css' type='text/css' media='all' />
 <script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
@@ -576,12 +576,12 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/www.tigressrealestatesfbay.com\/wp-
 <script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/js/plugins.js?ver=14.2'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/js/menu.js?ver=14.2'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/assets/animations/animations.min.js?ver=14.2'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=14.2'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/js/parallax/translate3d.js?ver=14.2'></script>
-<script type='text/javascript' src='wp-content/themes/betheme/js/scripts.js?ver=14.2'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/js/plugins.js'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/js/menu.js'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/assets/animations/animations.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/assets/jplayer/jplayer.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/js/parallax/translate3d.js'></script>
+<script type='text/javascript' src='wp-content/themes/betheme/js/scripts.js'></script>
 <script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
