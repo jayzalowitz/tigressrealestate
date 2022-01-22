@@ -46,11 +46,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='layerslider-css'  href='wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='wp-content/plugins/LayerSlider/static/css/layerslider.css' type='text/css' media='all' />
 <link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
-<link rel='stylesheet' id='gglcptch-css'  href='wp-content/plugins/google-captcha/css/gglcptch.css?ver=1.33' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gglcptch-css'  href='wp-content/plugins/google-captcha/css/gglcptch.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
@@ -64,7 +64,7 @@ img.emoji {
 <link rel='stylesheet' id='mfn-responsive-css'  href='wp-content/themes/betheme/css/responsive.css' type='text/css' media='all' />
 <link rel='stylesheet' id='Roboto+Slab-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A1%2C400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='Exo-css'  href='http://fonts.googleapis.com/css?family=Exo%3A1%2C400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='style-css'  href='wp-content/themes/betheme-child/style.css' type='text/css' media='all' />
 <script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/greensock.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
@@ -560,9 +560,9 @@ document.addEventListener( 'wpcf7submit', function( event ) {
 					jQuery(sliderID).show().html(errorMessage);
 			}
 		</script>
-		<link rel='stylesheet' id='lity-css'  href='wp-content/plugins/arve-pro/node_modules/lity/dist/lity.min.css?ver=2.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='arve-pro-css'  href='wp-content/plugins/arve-pro/public/arve-pro.min.css?ver=4.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='advanced-responsive-video-embedder-css'  href='wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.css?ver=8.7.6' type='text/css' media='all' />
+		<link rel='stylesheet' id='lity-css'  href='wp-content/plugins/arve-pro/node_modules/lity/dist/lity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='arve-pro-css'  href='wp-content/plugins/arve-pro/public/arve-pro.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-responsive-video-embedder-css'  href='wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='Open+Sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400&#038;ver=4.9.8' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -584,8 +584,8 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/www.tigressrealestatesfbay.com\/wp-
 <script type='text/javascript' src='wp-content/themes/betheme/js/scripts.js'></script>
 <script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js'></script>
-<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
-<script type='text/javascript' src='wp-content/plugins/arve-pro/node_modules/objectFitPolyfill/dist/objectFitPolyfill.basic.min.js?ver=2.0.4'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/arve-pro/node_modules/objectFitPolyfill/dist/objectFitPolyfill.basic.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/arve-pro/public/arve-pro.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/advanced-responsive-video-embedder/public/arve.min.js'></script>
 <script type='text/javascript' src='https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&#038;render=explicit&#038;ver=2.0'></script>
