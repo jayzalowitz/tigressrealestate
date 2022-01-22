@@ -478,7 +478,7 @@ CALL ME (415) 634-7373</h2>
 										
 					<!-- Copyrights -->
 					<div class="copyright">
-						© <?php date("Y"); ?> Tigress of Real Estate. All Rights Reserved.					</div>
+						© <?php echo date("Y"); ?> Tigress of Real Estate. All Rights Reserved.					</div>
 					
 					<ul class="social"></ul>							
 				</div>
