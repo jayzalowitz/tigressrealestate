@@ -1,18 +1,25 @@
 <?php
-        $email;$comment;$captcha;
-        if(isset($_POST['email'])){
-          $email=$_POST['email'];
+        $email;$comment;$captcha;$subject;
+        if(isset($_POST['your-email'])){
+          $email=$_POST['your-email'];
         }
-        if(isset($_POST['comment'])){
-          $comment=$_POST['comment'];
+        if(isset($_POST['your-message'])){
+          $comment=$_POST['your-message'];
+        }
+        if(isset($_POST['your-subject'])){
+          $subject=$_POST['your-subject'];
+        }
+        if(isset($_POST['your-email'])){
+          $subject=$_POST['your-email'];
         }
         if(isset($_POST['g-recaptcha-response'])){
           $captcha=$_POST['g-recaptcha-response'];
         }
+
         if(!$captcha){
           echo '
-Please check the the captcha form.
-';
+			Please check the the captcha form.
+			';
           exit;
         }
         $secretKey = "6LeHLjMeAAAAAGcZDsYbarbR-9Hgw9nqdPO71dYj";
@@ -22,6 +29,11 @@ Please check the the captcha form.
         $responseKeys = json_decode($response, false);
         // should return JSON with success as true
         if($responseKeys->success) {
+        	$to = "courtsdavis@gmail.com";
+			$headers = "From: " .$email. "\r\n" .
+			"CC: jayzalowitz@gmail.com";
+
+			mail($to,$subject,$comment,$headers);
        		echo '{}';
         } 
 ?>
