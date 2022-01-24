@@ -1,65 +1,3 @@
-<?php
-require_once __DIR__ . '/vendor/autoload.php';
-use SendGrid\Mail\Mail;
-if(isset($_POST['your-email'])){
-	$email;$comment;$captcha;$subject;
-	if(isset($_POST['your-email'])){
-	  $email=$_POST['your-email'];
-	}
-	if(isset($_POST['your-message'])){
-	  $comment=$_POST['your-message'];
-	}
-	if(isset($_POST['your-subject'])){
-	  $subject=$_POST['your-subject'];
-	}
-	if(isset($_POST['your-email'])){
-	  $subject=$_POST['your-email'];
-	}
-	if(isset($_POST['g-recaptcha-response'])){
-	  $captcha=$_POST['g-recaptcha-response'];
-	}
-
-	if(!$captcha){
-	  echo '
-		Please check the the captcha form.
-		';
-	  exit;
-	}
-	$secretKey = "6LeHLjMeAAAAAGcZDsYbarbR-9Hgw9nqdPO71dYj";
-	// post request to server
-	$url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . urlencode($secretKey) .  '&response=' . urlencode($captcha);
-	$response = file_get_contents($url);
-	$responseKeys = json_decode($response, false);
-	// should return JSON with success as true
-	if($responseKeys->success) {
-		$to = "courtsdavis@gmail.com";
-		$headers = "From: " .$email. "\r\n" .
-		"CC: jayzalowitz@gmail.com";
-			echo '{}';
-
-			
-
-		$email = new Mail();
-		$email->setFrom("jayzalowitz@gmail.com");
-		$email->setSubject($subject);
-		$email->addTo("courtsdavis@gmail.com", "jayzalowitz@gmail.com");
-		$email->addContent("text/plain", $comment);
-		$email->addContent(
-		    "text/html", $comment
-		);
-		$sendgrid = new \SendGrid("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
-	");
-		try {
-		    $response = $sendgrid->send($email);
-		    print $response->statusCode() . "\n";
-		    print_r($response->headers());
-		    print $response->body() . "\n";
-		} catch (Exception $e) {
-		    echo 'Caught exception: '.  $e->getMessage(). "\n";
-		}
-	} 
-}
-?>
 <!DOCTYPE html>
 <html class="no-js" lang="en-US" id="arve">
 
@@ -630,7 +568,7 @@ document.addEventListener( 'wpcf7submit', function( event ) {
 <link rel='stylesheet' id='Open+Sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400&#038;ver=4.9.8' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/www.tigressrealestatesfbay.com","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.tigressrealestatesfbay.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
