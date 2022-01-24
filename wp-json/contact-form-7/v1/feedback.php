@@ -15,13 +15,12 @@ Please check the the captcha form.
 ';
           exit;
         }
-        $secretKey = "P6LeHLjMeAAAAAGcZDsYbarbR-9Hgw9nqdPO71dYj";
-        $ip = $_SERVER['REMOTE_ADDR'];
+        $secretKey = "6LeHLjMeAAAAAGcZDsYbarbR-9Hgw9nqdPO71dYj";
         // post request to server
         $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . urlencode($secretKey) .  '&response=' . urlencode($captcha);
         $response = file_get_contents($url);
         $responseKeys = json_decode($response,true);
-        echo $responseKeys;
+        echo $response;
         // should return JSON with success as true
         if($responseKeys["success"]) {
                 echo '
