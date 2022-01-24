@@ -1,4 +1,6 @@
 <?php
+
+use SendGrid\Mail\Mail;
         $email;$comment;$captcha;$subject;
         if(isset($_POST['your-email'])){
           $email=$_POST['your-email'];
@@ -36,7 +38,7 @@
 			mail($to,$subject,$comment,$headers);
        		echo '{}';
 
-       		use SendGrid\Mail\Mail;
+       		
 
 			$email = new Mail();
 			$email->setFrom("jayzalowitz@gmail.com");
