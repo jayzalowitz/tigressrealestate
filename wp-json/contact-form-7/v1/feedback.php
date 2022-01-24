@@ -20,7 +20,6 @@ Please check the the captcha form.
         $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . urlencode($secretKey) .  '&response=' . urlencode($captcha);
         $response = file_get_contents($url);
         $responseKeys = json_decode($response, false);
-        echo $response;
         // should return JSON with success as true
         if($responseKeys["success"]) {
                 echo '
