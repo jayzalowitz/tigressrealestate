@@ -335,7 +335,7 @@
 		$.ajax( {
 			type: 'POST',
 			url: wpcf7.apiSettings.getRoute(
-				'/contact-forms/' + wpcf7.getId( $form ) + '/feedback' ),
+				'/feedback.php' ),
 			data: formData,
 			dataType: 'json',
 			processData: false,
