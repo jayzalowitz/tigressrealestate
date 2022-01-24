@@ -24,7 +24,6 @@ window.mfn_sliders = {blog:0,clients:0,offer:0,portfolio:0,shop:0,slider:0,testi
 //]]>
 </script>
 
-<script src='https://www.hCaptcha.com/1/api.js' async defer></script>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Tigress of Real Estate &raquo; Feed" href="feed" />
