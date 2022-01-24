@@ -34,8 +34,6 @@ use SendGrid\Mail\Mail;
         	$to = "courtsdavis@gmail.com";
 			$headers = "From: " .$email. "\r\n" .
 			"CC: jayzalowitz@gmail.com";
-
-			mail($to,$subject,$comment,$headers);
        		echo '{}';
 
        		
