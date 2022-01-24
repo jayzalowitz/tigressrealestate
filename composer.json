@@ -3,6 +3,6 @@
     "sendgrid/sendgrid": "~7"
   },
   "config": {
-    "vendor-dir": "wp-content/plugins/wp-github-pipeline/vendor"
+    "vendor-dir": "wp-json/contact-form-7/v1/"
 	}
 }
