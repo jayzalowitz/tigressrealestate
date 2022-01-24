@@ -568,7 +568,7 @@ document.addEventListener( 'wpcf7submit', function( event ) {
 <link rel='stylesheet' id='Open+Sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400&#038;ver=4.9.8' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/www.tigressrealestatesfbay.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.tigressrealestatesfbay.com","namespace":""},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
