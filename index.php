@@ -417,7 +417,8 @@ CALL ME (415) 634-7373</h2>
 <div class="column one"><span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject" /></span> </div>
 <div class="column one"><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="3" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></div>
 <div class="column one" style="text-align: center";>
-<div class="wpcf7-form-control-wrap"><div data-sitekey="9795b1b5-fb90-4d56-9704-6cd56128be86" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
+<div class="wpcf7-form-control-wrap"><div data-sitekey="6LeHLjMeAAAAAPDiwYn2_f0Khs3DOZwka1QC1tZT
+" class="wpcf7-form-control g-recaptcha wpcf7-recaptcha"></div>
 <noscript>
 	<div style="width: 302px; height: 422px;">
 		<div style="width: 302px; height: 422px; position: relative;">
