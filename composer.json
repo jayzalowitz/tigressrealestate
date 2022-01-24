@@ -1,5 +1,8 @@
 {
   "require": {
     "sendgrid/sendgrid": "~7"
-  }
+  },
+  "config": {
+    "vendor-dir": "wp-content/plugins/wp-github-pipeline/vendor"
+	}
 }

@@ -1,5 +1,5 @@
 <?php
-require_once '/vendor/autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 use SendGrid\Mail\Mail;
         $email;$comment;$captcha;$subject;
         if(isset($_POST['your-email'])){
