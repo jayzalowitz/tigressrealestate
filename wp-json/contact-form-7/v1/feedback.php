@@ -22,6 +22,6 @@ Please check the the captcha form.
         $responseKeys = json_decode($response, false);
         // should return JSON with success as true
         if($responseKeys->success) {
-       		echo 'Test';
+       		echo '{}';
         } 
 ?>
