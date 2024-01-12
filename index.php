@@ -83,6 +83,7 @@ var LS_Meta = {"v":"5.6.9"};
 <!-- LayerSlider updates and docs at: https://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/ -->
 <link rel='https://api.w.org/' href='wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.8" />
 <link rel="canonical" href="" />
