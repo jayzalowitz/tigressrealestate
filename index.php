@@ -351,7 +351,7 @@ jsFileLocation:"//www.tigressrealestatesfbay.com/wp-content/plugins/revslider/pu
 
 <h5>TAKING CARE OF YOU</h5>
 <p class="big"> Now I can take care of you! I am familiar with all the neighborhoods in all these different cities and can help you narrow down which specific neighborhoods would be the best match for you and yours. I love working with buyers and have become a powerhouse at matching clients to their ideal property, often times on the very first home tour!</p></div></div></div></div><div class="wrap mcb-wrap one-second  valign-top clearfix" style="padding:0 2% 0 0" ><div class="mcb-wrap-inner"><div class="column mcb-column one column_column  column-margin-"><div class="column_attr clearfix"  style=""><p><span class="dropcap size-2" >I</span>
- am your trailblazer for buying or selling anywhere in the SF Bay Area.  My clients call me The Tigress.</p>
+ am your trailblazer for buying or selling anywhere in the SF Bay Area.  My clients call me "The Tigress".</p>
 
 <p>Wonder why?</p>
  
