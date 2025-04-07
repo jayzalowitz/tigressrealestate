@@ -396,8 +396,67 @@ jsFileLocation:"//www.tigressrealestatesfbay.com/wp-content/plugins/revslider/pu
  
 <p>Courtney’s drive and tenacity are unmatched; her negotiation skills are very impressive. She is a great agent and a good generous person who is motivated by helping people. She certainly helped us. We are very grateful and so impressed. Go Tigress!"</p>
 
-<p>- Anya Shapina & Lawrence Sutten</p></div></div></div></div></div></div><div class="section mcb-section   " id="contact" style="padding-top:80px; padding-bottom:30px; background-color:" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap one  valign-top clearfix" style="" ><div class="mcb-wrap-inner"><div class="column mcb-column one column_column  column-margin-"><div class="column_attr clearfix align_center"  style=""><h2>LETS MEET AND TALK<br />
-CALL ME (415) 634-7373</h2>
+<p>- Anya Shapina & Lawrence Sutten</p>
+
+<div class="google_font" style="font-family:'Open Sans',Arial,Tahoma,sans-serif;font-size:18px;line-height:18px;font-weight:400;letter-spacing:px;color:#626262;">Client Testimonials:</div>
+
+
+<hr class=" hr_color" style="margin: 0 auto 15px;"/>
+
+ 
+<p>When I first approached Courtney with the task of selling my one bedroom loft in San Francisco, she showed me the comparable numbers and unlike most agents who would just tell me what I want to hear, she was honest with me, telling me that I could probably, at best break even, since I paid too much for the property when I bought it to begin with.  However, if I still wished to sell she assured me she would do everything she could to get my property the maximum amount of exposure, and she wasn’t kidding.  She hosted a sneak peak open, inviting all my neighbors to come look.  She sent out a coming soon post card with my listing’s details to all my neighbors and also sent out an email blast to her entire network.  She even called in a favor and got an article written in the popular and widely read Curbed SF blog.</p>
+ 
+<p>Thanks to her additional efforts and having an extended network, my place caught the eye of one of the top broker’s in the city, and they ended up making me an offer that literally made history for the top one bedroom ever sold in my entire building!  If it wasn’t for Courtney’s tenacity, professionalism and negotiation skills, I probably wouldn’t have made any money on this property.  And right then and there I promised her I would never buy or sell with another agent other than her, since she truly does have her client’s best interest in mind at all times, and will be honest with you regardless what it means for her.  Since then I have now bought and/or sold three different properties with her.</p>
+ 
+<p>-Jonathan King</p>
+
+<p>The owner of the house I was living in, in San Francisco passed away and the heirs needed to sell the property. I told Courtney that I would be interested in trying to purchase the property. The minute I gave her the greenlight she reached out to the listing agent countless times, wrote up two different offers and after 2 weeks of negotiation, all while she was on vacation on an island, she got an accepted contract for me at a price below what the property was worth! Throughout the entire escrow process she held my hand every step of the way and made sure everything got done on time all the way up until she handed the keys to me.</p>
+	
+<p>-Michelle Magowan</p>
+
+<p>When my fiance and I decided to move in together we approached Courtney casually at a friend’s party to play with the thought of buying a home and investing our money instead of wasting it on the high rent prices. We looked at a few places, got intimidated by the large number of offers placed on homes in our ideal neighborhood, and decided we were not ready. We continued to keep the conversation alive whenever we saw her. Each time we chatted she gave us the information we needed with not only no added pressure but a true commitment and focus on getting us the home that is right for us.</p>
+
+<p>Living in a small tight knit community we were told that it would be advantageous for us to work with a local agent. We took our chances and decided to stay with Courtney. This turned out to work in our favor. Courtney is not a sugar coater. She told us the facts in a direct and honest manner that works very well for us.</p>
+	
+<p>Over a year later, after seeing countless houses and at the point where we were about to give up she found us a listing that most realtors avoided since the seller broker was offering less to the buyer broker. As soon as we walked into this house my heart leaped as we realized this would be our dream home. I credit Courtney in making this happen for us. She took less money on the deal, spoke to the seller and convinced him to take a preempted offer and found us a loan officer that was able to close on time with at a great rate with our not so perfect credit.</p>
+
+<p>-With Love and Gratitude,    Nathalie and Jason</p>
+
+<p>A very happy client who is now a friend for life. I met Courtney through a mutual friend of ours at a birthday party celebration. Upon introductions I discovered she was a real estate agent, and I shared I was working with another agent who happens to be one of my dearest friends, so I was hesitant to make a change. Nevertheless, we decided to meet casually so I could gain a different perspective about my condo. Five minutes into our meeting I knew I'd be working with her. Her knowledge, confidence and respectful attitude toward my current agent and our relationship, sealed the deal. Everything she said she would do, she did and then some. She helped me throughout the minor renovations well within the timeline promised. every step of the way, I felt her support. If she had to push me a little to do something out of my comfort zone, she educated me on what needed to be done in a kind and respectful way, with my best intentions always in mind. She's an absolute professional in every way who lives up to her name, Tigress of Real Estate. Not only did she sell my condo in the timeline promised, but she sold it well above asking! My condo went on the market at the height of Omicron. To ensure she was healthy and able bodied for the first open house, she quarantined herself the weekend prior for an entire week. Tigress of real estate? Indeed......but with an absolute heart of solid gold. She is a friend for life, and I am eternally grateful.</p>
+	
+<p>K Saedi </p>
+
+<p>My husband and I were looking to buy our first home in the incredibly competitive
+Oakland market during a time of extremely low inventory. Between the packed open
+houses and plethora of 6-figure overbids - up to $350K over and often in cash - we
+could have easily become discouraged. Courtney kept us focused and adjusted her
+strategy as the market shifted, understanding that as longtime residents of Oakland we
+really couldn't imagine being anywhere else.</p>
+
+<p>Thanks to Courtney, we got in early on an incredible home and went from offer to close
+in just under four weeks. Throughout the process, Courtney was an invaluable guide,
+offering strategic advice and her honest opinions on properties. We're thrilled with our
+new home and grateful to Courtney for her persistence, drive and commitment to
+finding us the best possible property.</p>
+
+<p>Sincerely yours, Ben and Stephanie Lepow</p>
+
+<p>Finding Courtney was real luck. After several frustrating months of working with another agent who was wasting my time showing me mostly the wrong places, and was way off in her bid recommendations for the places I liked, I decided to switch agent and work with Courtney.</p>
+
+<p>At my first meeting, I was so impressed that she really listened, asked great questions, and took the time to understand exactly what I was looking for. She then never wasted my time showing me any properties that wouldn't have been of interest to me.
+Everything she showed me was on point. Every appointment that I had with Courtney to house hunt, she was impeccably organized. She made sure to reach out to the sellers' agents and make all arrangements needed beforehand, so the days we spent looking always went smoothly. Courtney was always well prepared – she showed up to every appointment with a ton of research in hand. I was also very impressed with how knowledgeable and informative Courtney was. She gave me accurate information every step of the way. She answered each one of my questions thoroughly and promptly. She never recommended higher offer amounts than what was needed to get any place.</p>
+
+<p>When I finally did find the right home, she made sure the offer I put in got accepted, and it did. We had a very tight turn around as I was competing with another buyer for the home, and Courtney dropped everything she was doing to get the offer submitted and accepted. During the escrow process, there were several hang-ups with the bank, and Courtney
+always fought for me, never getting me involved in any of the back and forth. She only shared the successes with me after she had negotiated and worked through several items in my favor.</p>
+
+<p>While working with Courtney, I also very much appreciated that she helped keep me accountable to make the goal and dream of owning my own place come true. I think if I hadn't worked with Courtney, I'd still be looking. If you're even thinking about buying, work with Courtney. She knows her stuff and she will get you into your
+dream home. I will definitely work with Courtney again in the future and give her my highest
+recommendation.</p>
+
+<p>With Gratitude, Monica Girel</p>
+
+</div></div></div></div></div></div><div class="section mcb-section   " id="contact" style="padding-top:80px; padding-bottom:30px; background-color:" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap one  valign-top clearfix" style="" ><div class="mcb-wrap-inner"><div class="column mcb-column one column_column  column-margin-"><div class="column_attr clearfix align_center"  style=""><h2>LETS MEET AND TALK<br />
+CALL ME (415) 634-7373 or Check Out my <a href="https://www.dropbox.com/scl/fi/ibe16t1y1y3nrh59st2x3/SF-2025-Listing-Presentation-Final-Courtney-Davis-1.pdf?rlkey=jty4t1qlqpk15ckdj06rnmc40&st=1zqhcynq&dl=0" target="_blank">listing consultation booklet here.</a></h2>
 <hr class="no_line" style="margin: 0 auto 40px;"/>
 
 </div></div></div></div></div></div><div class="section mcb-section   "  style="padding-top:80px; padding-bottom:30px; background-color:#854f24" ><div class="section_wrapper mcb-section-inner"><div class="wrap mcb-wrap one  valign-top clearfix" style="" ><div class="mcb-wrap-inner"><div class="column mcb-column one-sixth column_placeholder"><div class="placeholder">&nbsp;</div></div><div class="column mcb-column two-third column_column  column-margin-"><div class="column_attr clearfix align_center"  style=""><h2 style="color: #fff;">SEND A MESSAGE</h2>
